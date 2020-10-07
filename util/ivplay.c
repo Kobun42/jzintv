@@ -96,9 +96,10 @@ main()
 
     /* -------------------------------------------------------------------- */
     /*  Play the Mattel Electronics Presents stream, just because we can.   */
+    /*  Or maybe not. Just trying to make this like the INTY LIVES PS2 Emu  */
     /* -------------------------------------------------------------------- */
     /*spc_do_ald(0x06, 0);  /* Mattel Electronics Presents  */
-    spc_do_ald(0x02, 0);    /* (pause)                      */
+    /*spc_do_ald(0x02, 0);    /* (pause)                      */
 
     
     /* -------------------------------------------------------------------- */
